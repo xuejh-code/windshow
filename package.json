@@ -1,0 +1,14 @@
+{
+  "name": "windshow",
+  "version": "1.0.0",
+  "description": "凤秀电商",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xuejh",
+  "license": "ISC",
+  "dependencies": {
+    "lin-ui": "^0.9.4"
+  }
+}

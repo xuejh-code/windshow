@@ -1,0 +1,64 @@
+page{
+    background-color: #f5f5f5;
+}
+
+
+@font-face {
+    font-family: 'sleeve';  /* Project id 2480742 */
+    src: url('//at.alicdn.com/t/font_2480742_isfllfnc2ep.woff2?t=1629428539363') format('woff2'),
+         url('//at.alicdn.com/t/font_2480742_isfllfnc2ep.woff?t=1629428539363') format('woff'),
+         url('//at.alicdn.com/t/font_2480742_isfllfnc2ep.ttf?t=1629428539363') format('truetype');
+  }
+
+.sleeve{
+    font-family: sleeve !important;
+    color: #157658 !important;
+}
+
+.l-icon-home:before{
+    content: "\e60b"
+}
+
+.l-icon-cart1:before{
+    content: "\e610"
+}
+
+.l-icon-check:before{
+    content: "\e723"
+}
+
+.l-icon-address1:before{
+    content: "\e603"
+}
+
+.l-icon-about:before{
+    content: "\e640";
+}
+
+.l-icon-unpaid:before{
+    content: "\e646";
+}
+
+.l-icon-paid:before{
+    content: "\e60a";
+}
+
+.l-icon-delivered:before{
+    content: "\e637";
+}
+
+.l-icon-over:before{
+    content: "\e615";
+}
+
+.l-icon-coupon:before{
+    content: "\e62c";
+}
+
+.l-icon-order:before{
+    content: "\e612";
+}
+
+.l-icon-address:before{
+    content: "\e9fb";
+}
